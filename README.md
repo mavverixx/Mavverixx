@@ -1,11 +1,13 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**mavverixx/Mavverixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a passionate developer and creative technologist who loves blending storytelling, design, and technology to create impactful digital experiences.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+![M](https://github.com/user-attachments/assets/41ec17a8-95f6-4359-8fee-2fc81d943287)
+## About Me
+- 🔭 I’m currently working on [Your Project Name].
+- 🌱 I’m exploring AI/ML, XR, and Web3 technologies.
+- 🎭 I have a background in theatre, combining audience-focused storytelling with user-centered design.
+- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## Let's Connect!
+- [Portfolio](https://your-portfolio-link.com)
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-handle)
