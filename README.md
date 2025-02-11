@@ -1,8 +1,9 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate developer and creative technologist who loves blending storytelling, design, and technology to create impactful digital experiences.
+I'm Rikki Henry, a passionate developer and creative technologist who loves blending storytelling, design, and technology to create impactful digital experiences.
 
 ![M](https://github.com/user-attachments/assets/41ec17a8-95f6-4359-8fee-2fc81d943287)
+
 ## About Me
 - 🔭 I’m currently working on [Your Project Name].
 - 🌱 I’m exploring AI/ML, XR, and Web3 technologies.
