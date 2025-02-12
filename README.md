@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I’m Rikki, an Creative Technologist specialising in Front-End Development( React/Javascript) passionate about solving creative challenges with code. I specialise in front-end development and love blending storytelling, design, and technology to create impactful digital experiences.
+I’m Rikki, an Creative Director and Technologist specialising in Front-End Development( React/Javascript) passionate about solving creative challenges with code. I love blending storytelling, design, and technology to create impactful digital experiences.
 
 ## About Me
 
