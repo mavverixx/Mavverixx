@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Rikki Henry, a passionate developer and creative technologist who loves blending storytelling, design, and technology to create impactful digital experiences.
+I’m Rikki, an animator turned web developer passionate about solving creative challenges with code. I specialise in front-end development. I loves blending storytelling, design, and technology to create impactful digital experiences.
 
 ![M](https://github.com/user-attachments/assets/41ec17a8-95f6-4359-8fee-2fc81d943287)
 
