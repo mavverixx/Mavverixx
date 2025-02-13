@@ -11,7 +11,6 @@ I’m Rikki, a Creative Director and Technologist specialising in Front-End Deve
 - 👯 I’m looking to collaborate on innovative projects that merge art and technology.
 - 🤔 I’m looking for help with expanding my knowledge in AI-driven web applications.
 - 💬 Ask me about theatre direction, front-end development, or creative coding.
-- 📫 How to reach me: [Your Email or Contact Method]
 - ⚡ Fun fact: I directed ["Othello" in Austria](https://www.nytimes.com/2021/11/12/theater/othello-rikki-henry-landestheater-niederoesterreich.html), becoming the first person of color in Europe to do so!
 
 ## Let's Connect!
