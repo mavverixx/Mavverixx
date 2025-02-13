@@ -16,6 +16,4 @@ I’m Rikki, a Creative Director and Technologist specialising in Front-End Deve
 
 ## Let's Connect!
 
-- [Portfolio](https://your-portfolio-link.com)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
+- LinkedIn: [Rikki Henry](https://www.linkedin.com/in/rikkihenry/)
