@@ -5,7 +5,7 @@ I’m Rikki, a Creative Director and Technologist specialising in Front-End Deve
 
 ## About Me
 
-- 🔭 I’m currently working on a project that integrates AI/ML with interactive web design.
+- 🔭 I’m currently working on a project that integrates 2D and £D animation, AI/ML with interactive web design.
 - 🌱 I’m exploring XR and Web3 technologies to push the boundaries of digital storytelling.
 - 🎭 With a background in theatre, I combine audience-focused storytelling with user-centered design.
 - 👯 I’m looking to collaborate on innovative projects that merge art and technology.
