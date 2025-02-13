@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I’m Rikki, a Creative Director and Technologist specialising in Front-End Development( React/Javascript) passionate about solving creative challenges with code. I love blending storytelling, 2D/3D animation, design and technology to create impactful digital experiences.
+I’m Rikki, a Creative Director and Technologist specialising in Front-End Development( React/JavaScript) passionate about solving creative challenges with code. I love blending storytelling, 2D/3D animation, design and technology to create impactful digital experiences.
 
 ![67ad645aac2d6626440471](https://github.com/user-attachments/assets/32b422e3-22fc-432d-97e1-8ca9c551625b)
 
